@@ -1,0 +1,27 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "team.showWelcomeMessage": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "gitlens.hovers.currentLine.over": "line",
+    "git.confirmSync": false,
+    "IoTWorkbench.workbench": "C:\\Users\\SHLV\\Documents\\IoTWorkbenchProjects",
+    "github.statusbar.enabled": true,
+    "window.zoomLevel": 1,
+    "editor.renderWhitespace": "all",
+    "powershell.powerShellDefaultVersion": "PowerShell (x64)",
+    "workbench.colorTheme": "GitHub Dark",
+    "terraform.languageServer": {
+        "external": true,
+        "args": [
+            "serve"
+        ]
+    },
+    "terraform.indexing": {
+        "enabled": false,
+        "liveIndexing": false
+    },
+    "git.enableSmartCommit": true,
+    "terminal.integrated.fontFamily": "MesloLGS NF"
+}
